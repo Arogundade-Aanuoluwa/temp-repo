@@ -1,0 +1,2 @@
+ THIS IS THE CONCAT OF Hello, this is first text file, Hello, this is second text file., { flag: 'a' } 
+ THIS IS THE CONCAT OF Hello, this is first text file, Hello, this is second text file., THIS IS THE CONCAT OF Hello, this is first text file, Hello, this is second text file.,
